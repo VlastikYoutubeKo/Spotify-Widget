@@ -12,7 +12,7 @@ testing.frame.html | Testing HTML file to locally embed the widget during develo
 ------
 See this widget in action;
 
-https://blog.naushikha.com/p/music.html
+https://mxnticek.is-not-a.dev/spotify-widget/music.html
 
 If you want to learn how to set this up in your own blog, check out the guide;
 
